@@ -42,7 +42,7 @@ Comment: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,karaoke,怪|<け{\k0}我|<が
 Comment: 0,0:05:02.07,0:05:03.32,Annotation,,0,0,0,karaoke,10代|<じゅうだい{\k0}: 10〜19歳の{\k0}年代|<ねんだい{\k0}。
 Comment: 0,0:05:10.17,0:05:13.15,Annotation,,0,0,0,karaoke,不良共|<ふりょうども{\k0}: 野郎達。{\k0}散々|<さんざん{\k0}: 数え切れない程、{\k0}沢山|<たくさん{\k0}。
 Comment: 0,0:05:13.64,0:05:15.00,Annotation,,0,0,0,karaoke,社長|<しゃちょう{\k0}: {\k0}会社|<かいしゃ{\k0}の{\k0}長|<ちょう{\k0}。
-Comment: 0,0:05:15.31,0:05:19.13,Annotation,,0,0,0,karaoke,指|<し{\k0}導|<どう{\k0}: 説教。
+Comment: 0,0:05:15.31,0:05:19.13,Annotation,,0,0,0,karaoke,指|<し{\k0}導|<どう{\k0}: 説教、叱る事。
 Comment: 0,0:05:19.81,0:05:22.44,Annotation,,0,0,0,karaoke,雇|<やと{\k0}った: 雇傭した事。
 Comment: 0,0:05:22.92,0:05:24.41,Annotation,,0,0,0,karaoke,首: 解雇。
 Comment: 0,0:05:28.39,0:05:32.09,Annotation,,0,0,0,karaoke,寮|<りょう{\k0}住|<ず{\k0}み: {\k0}寮|<りょう{\k0}に{\k0}住|<す{\k0}んでいる。
@@ -246,7 +246,7 @@ Dialogue: 0,0:05:13.64,0:05:15.00,Annotation-furigana,,0,0,0,fx,{\pos(389.380484
 Dialogue: 0,0:05:15.31,0:05:19.13,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
 Dialogue: 0,0:05:15.31,0:05:19.13,Annotation,,0,0,0,fx,{\pos(76.512921973538,105)\an5\k0\k0}指
 Dialogue: 0,0:05:15.31,0:05:19.13,Annotation,,0,0,0,fx,{\pos(130.17594285904,105)\an5\k0\k0}導
-Dialogue: 0,0:05:15.31,0:05:19.13,Annotation,,0,0,0,fx,{\pos(252.35351179685,105)\an5\k0\k0}: 説教。
+Dialogue: 0,0:05:15.31,0:05:19.13,Annotation,,0,0,0,fx,{\pos(359.68626807235,105)\an5\k0\k0}: 説教、叱る事。
 Dialogue: 0,0:05:15.31,0:05:19.13,Annotation-furigana,,0,0,0,fx,{\pos(76.512921973538,35)\an5\k0\k0}し
 Dialogue: 0,0:05:15.31,0:05:19.13,Annotation-furigana,,0,0,0,fx,{\pos(130.17594285904,35)\an5\k0\k0}どう
 Dialogue: 0,0:05:19.81,0:05:22.44,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
