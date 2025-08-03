@@ -36,7 +36,7 @@ Comment: 0,0:03:49.53,0:03:50.19,Annotation,,0,0,0,karaoke,警|<けい{\k0}邏|<
 Comment: 0,0:03:51.32,0:03:51.94,Annotation,,0,0,0,karaoke,回|<まわ{\k0}り{\k0}込|<こ{\k0}め: 障害物を{\k0}回|<まわ{\k0}って{\k0}入|<はい{\k0}り{\k0}込|<こ{\k0}め。
 Comment: 0,0:03:52.14,0:03:52.92,Annotation,,0,0,0,karaoke,お{\k0}巡|<まわ{\k0}り: 警察。
 Comment: 0,0:04:21.73,0:04:23.49,Annotation,,0,0,0,karaoke,アインハルト: {\k0}キャラクター|<character{\k0}名。
-Comment: 0,0:04:24.46,0:04:26.44,Annotation,,0,0,0,karaoke,{\k0}朝食|<ちょうしょく{\k0}：朝御飯。
+Comment: 0,0:04:24.46,0:04:26.44,Annotation,,0,0,0,karaoke,{\k0}朝食|<ちょうしょく{\k0}：朝御飯、朝飯。
 Comment: 0,0:04:26.91,0:04:28.73,Annotation,,0,0,0,karaoke,ティオ: 名前。
 Comment: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,karaoke,怪|<け{\k0}我|<が{\k0}人|<にん{\k0}: 負傷者、{\k0}怪|<け{\k0}我|<が{\k0}をした人。
 Comment: 0,0:05:02.07,0:05:03.32,Annotation,,0,0,0,karaoke,10代|<じゅうだい{\k0}: 10〜19歳の{\k0}年代|<ねんだい{\k0}。
@@ -204,7 +204,7 @@ Dialogue: 0,0:04:21.73,0:04:23.49,Annotation,,0,0,0,fx,{\pos(785.03895140349,105
 Dialogue: 0,0:04:21.73,0:04:23.49,Annotation-furigana,,0,0,0,fx,{\pos(569.09237047113,35)\an5\k0\k0}character
 Dialogue: 0,0:04:24.46,0:04:26.44,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
 Dialogue: 0,0:04:24.46,0:04:26.44,Annotation,,0,0,0,fx,{\pos(103.02584394708,105)\an5\k0\k0}朝食
-Dialogue: 0,0:04:24.46,0:04:26.44,Annotation,,0,0,0,fx,{\pos(289.89736614319,105)\an5\k0\k0}：朝御飯。
+Dialogue: 0,0:04:24.46,0:04:26.44,Annotation,,0,0,0,fx,{\pos(370.07666625448,105)\an5\k0\k0}：朝御飯、朝飯。
 Dialogue: 0,0:04:24.46,0:04:26.44,Annotation-furigana,,0,0,0,fx,{\pos(103.02584394708,35)\an5\k0\k0}ちょうしょく
 Dialogue: 0,0:04:26.91,0:04:28.73,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
 Dialogue: 0,0:04:26.91,0:04:28.73,Annotation,,0,0,0,fx,{\pos(227.12501545691,105)\an5\k0\k0}ティオ: 名前。
