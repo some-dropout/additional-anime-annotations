@@ -38,7 +38,7 @@ Comment: 0,0:03:52.14,0:03:52.92,Annotation,,0,0,0,karaoke,お{\k0}巡|<まわ{\
 Comment: 0,0:04:21.73,0:04:23.49,Annotation,,0,0,0,karaoke,アインハルト: {\k0}キャラクター|<character{\k0}名。
 Comment: 0,0:04:24.46,0:04:26.44,Annotation,,0,0,0,karaoke,{\k0}朝食|<ちょうしょく{\k0}：朝御飯。
 Comment: 0,0:04:26.91,0:04:28.73,Annotation,,0,0,0,karaoke,ティオ: 名前。
-Comment: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,karaoke,怪|<け{\k0}我|<が{\k0}人|<にん{\k0}: 負傷者。
+Comment: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,karaoke,怪|<け{\k0}我|<が{\k0}人|<にん{\k0}: 負傷者、{\k0}怪|<け{\k0}我|<が{\k0}をした人。
 Comment: 0,0:05:02.07,0:05:03.32,Annotation,,0,0,0,karaoke,10代|<じゅうだい{\k0}: 10〜19歳の{\k0}年代|<ねんだい{\k0}。
 Comment: 0,0:05:10.17,0:05:13.15,Annotation,,0,0,0,karaoke,不良共|<ふりょうども{\k0}: 野郎達。{\k0}散々|<さんざん{\k0}: 数え切れない程、{\k0}沢山|<たくさん{\k0}。
 Comment: 0,0:05:13.64,0:05:15.00,Annotation,,0,0,0,karaoke,社長|<しゃちょう{\k0}: {\k0}会社|<かいしゃ{\k0}の{\k0}長|<ちょう{\k0}。
@@ -212,10 +212,15 @@ Dialogue: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
 Dialogue: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,fx,{\pos(76.512921973538,105)\an5\k0\k0}怪
 Dialogue: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,fx,{\pos(129.53876592061,105)\an5\k0\k0}我
 Dialogue: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,fx,{\pos(183.20178680612,105)\an5\k0\k0}人
-Dialogue: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,fx,{\pos(331.89227771746,105)\an5\k0\k0}: 負傷者。
+Dialogue: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,fx,{\pos(331.89227771746,105)\an5\k0\k0}: 負傷者、
+Dialogue: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,fx,{\pos(480.5827686288,105)\an5\k0\k0}怪
+Dialogue: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,fx,{\pos(533.60861257587,105)\an5\k0\k0}我
+Dialogue: 0,0:04:58.72,0:04:59.43,Annotation,,0,0,0,fx,{\pos(695.24828117981,105)\an5\k0\k0}をした人。
 Dialogue: 0,0:04:58.72,0:04:59.43,Annotation-furigana,,0,0,0,fx,{\pos(76.512921973538,35)\an5\k0\k0}け
 Dialogue: 0,0:04:58.72,0:04:59.43,Annotation-furigana,,0,0,0,fx,{\pos(129.53876592061,35)\an5\k0\k0}が
 Dialogue: 0,0:04:58.72,0:04:59.43,Annotation-furigana,,0,0,0,fx,{\pos(183.20178680612,35)\an5\k0\k0}にん
+Dialogue: 0,0:04:58.72,0:04:59.43,Annotation-furigana,,0,0,0,fx,{\pos(480.5827686288,35)\an5\k0\k0}け
+Dialogue: 0,0:04:58.72,0:04:59.43,Annotation-furigana,,0,0,0,fx,{\pos(533.60861257587,35)\an5\k0\k0}が
 Dialogue: 0,0:05:02.07,0:05:03.32,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
 Dialogue: 0,0:05:02.07,0:05:03.32,Annotation,,0,0,0,fx,{\pos(103.9044144924,105)\an5\k0\k0}10代
 Dialogue: 0,0:05:02.07,0:05:03.32,Annotation,,0,0,0,fx,{\pos(306.29590701125,105)\an5\k0\k0}: 10〜19歳の
