@@ -52,6 +52,7 @@ Comment: 0,0:05:22.92,0:05:24.41,Annotation,,0,0,0,karaoke,首: 解雇。
 Comment: 0,0:05:28.39,0:05:32.09,Annotation,,0,0,0,karaoke,寮|<りょう{\k0}住|<ず{\k0}み: {\k0}寮|<りょう{\k0}に{\k0}住|<す{\k0}んでいる。
 Comment: 0,0:05:44.78,0:05:46.40,Annotation,,0,0,0,karaoke,荷物|<にもつ{\k0}: 持ち物、私物。
 Comment: 0,0:05:47.43,0:05:48.71,Annotation,,0,0,0,karaoke,給料|<きゅうりょう{\k0}: 報酬。
+Comment: 0,0:05:56.27,0:05:59.41,Annotation,,0,0,0,karaoke,短|<みじか{\k0}い{\k0}間|<あいだ{\k0}: 長くない時間。
 Comment: 0,0:06:14.93,0:06:16.25,Annotation,,0,0,0,karaoke,訪|<たず{\k0}ねて{\k0}来|<き{\k0}て: 来訪して。
 Comment: 0,0:06:17.31,0:06:18.43,Annotation,,0,0,0,karaoke,ナカジマ: {\k0}ジム|<gym{\k0}の名前。
 Comment: 0,0:06:19.17,0:06:21.37,Annotation,,0,0,0,karaoke,アインハルト・ストラトス: {\k0}キャラクター|<character{\k0}名
@@ -303,6 +304,13 @@ Dialogue: 0,0:05:47.43,0:05:48.71,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
 Dialogue: 0,0:05:47.43,0:05:48.71,Annotation,,0,0,0,fx,{\pos(103.02584394708,105)\an5\k0\k0}給料
 Dialogue: 0,0:05:47.43,0:05:48.71,Annotation,,0,0,0,fx,{\pos(251.71633485841,105)\an5\k0\k0}: 報酬。
 Dialogue: 0,0:05:47.43,0:05:48.71,Annotation-furigana,,0,0,0,fx,{\pos(103.02584394708,35)\an5\k0\k0}きゅうりょう
+Dialogue: 0,0:05:56.27,0:05:59.41,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
+Dialogue: 0,0:05:56.27,0:05:59.41,Annotation,,0,0,0,fx,{\pos(76.512921973538,105)\an5\k0\k0}短
+Dialogue: 0,0:05:56.27,0:05:59.41,Annotation,,0,0,0,fx,{\pos(130.17930011129,105)\an5\k0\k0}い
+Dialogue: 0,0:05:56.27,0:05:59.41,Annotation,,0,0,0,fx,{\pos(198.05790464346,105)\an5\k0\k0}間
+Dialogue: 0,0:05:56.27,0:05:59.41,Annotation,,0,0,0,fx,{\pos(428.20876404744,105)\an5\k0\k0}: 長くない時間。
+Dialogue: 0,0:05:56.27,0:05:59.41,Annotation-furigana,,0,0,0,fx,{\pos(76.512921973538,35)\an5\k0\k0}みじか
+Dialogue: 0,0:05:56.27,0:05:59.41,Annotation-furigana,,0,0,0,fx,{\pos(198.05790464346,35)\an5\k0\k0}あいだ
 Dialogue: 0,0:06:14.93,0:06:16.25,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
 Dialogue: 0,0:06:14.93,0:06:16.25,Annotation,,0,0,0,fx,{\pos(76.512921973538,105)\an5\k0\k0}訪
 Dialogue: 0,0:06:14.93,0:06:16.25,Annotation,,0,0,0,fx,{\pos(157.3327562755,105)\an5\k0\k0}ねて
