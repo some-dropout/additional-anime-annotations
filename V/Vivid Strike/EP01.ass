@@ -19,6 +19,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Annotation,,0,0,0,template furi,{\pos(!line.lef
 Comment: 0,0:00:00.00,0:00:00.00,Annotation,,0,0,0,template syl,{\pos(!line.left+syl.center!,!line.middle!)\an5\k!syl.start_time/10!\k$kdur}
 Comment: 0,0:00:04.03,0:00:08.99,Annotation,,0,0,0,karaoke,フーカ・レヴェントン: {\k0}キャラクラー|<character{\k0}名。
 Comment: 0,0:00:12.20,0:00:13.27,Annotation,,0,0,0,karaoke,無礼|<なめ{\k0}んなよ: 軽視しないで呉れる?／甘く見ないで呉れる?
+Comment: 0,0:00:21.83,0:00:24.19,Annotation,,0,0,0,karaoke,親|<おや{\k0}: 父と母。{\k0}逆|<さか{\k0}らって: 言う事を聞かないで、抵抗して。
 Comment: 0,0:00:24.47,0:00:25.74,Annotation,,0,0,0,karaoke,聞|<き{\k0}いてんのかい:「{\k0}聞|<き{\k0}いてる？」を乱暴にした言い方。
 Comment: 0,0:00:26.02,0:00:27.00,Annotation,,0,0,0,karaoke,いいから、{\k0}通|<とお{\k0}せ: 其の儘の意味。
 Comment: 0,0:00:27.65,0:00:30.43,Annotation,,0,0,0,karaoke,院|<いん{\k0}: {\k0}孤|<こ{\k0}児|<じ{\k0}院|<いん{\k0}の事。せにゃ:「しなきゃ」の訛り／方言。
@@ -60,6 +61,13 @@ Dialogue: 0,0:00:12.20,0:00:13.27,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
 Dialogue: 0,0:00:12.20,0:00:13.27,Annotation,,0,0,0,fx,{\pos(103.02584394708,105)\an5\k0\k0}無礼
 Dialogue: 0,0:00:12.20,0:00:13.27,Annotation,,0,0,0,fx,{\pos(785.22072461976,105)\an5\k0\k0}んなよ: 軽視しないで呉れる?／甘く見ないで呉れる?
 Dialogue: 0,0:00:12.20,0:00:13.27,Annotation-furigana,,0,0,0,fx,{\pos(103.02584394708,35)\an5\k0\k0}なめ
+Dialogue: 0,0:00:21.83,0:00:24.19,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
+Dialogue: 0,0:00:21.83,0:00:24.19,Annotation,,0,0,0,fx,{\pos(76.512921973538,105)\an5\k0\k0}親
+Dialogue: 0,0:00:21.83,0:00:24.19,Annotation,,0,0,0,fx,{\pos(225.84394707555,105)\an5\k0\k0}: 父と母。
+Dialogue: 0,0:00:21.83,0:00:24.19,Annotation,,0,0,0,fx,{\pos(375.812149116,105)\an5\k0\k0}逆
+Dialogue: 0,0:00:21.83,0:00:24.19,Annotation,,0,0,0,fx,{\pos(903.36995794498,105)\an5\k0\k0}らって: 言う事を聞かないで、抵抗して。
+Dialogue: 0,0:00:21.83,0:00:24.19,Annotation-furigana,,0,0,0,fx,{\pos(76.512921973538,35)\an5\k0\k0}おや
+Dialogue: 0,0:00:21.83,0:00:24.19,Annotation-furigana,,0,0,0,fx,{\pos(375.812149116,35)\an5\k0\k0}さか
 Dialogue: 0,0:00:24.47,0:00:25.74,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
 Dialogue: 0,0:00:24.47,0:00:25.74,Annotation,,0,0,0,fx,{\pos(76.512921973538,105)\an5\k0\k0}聞
 Dialogue: 0,0:00:24.47,0:00:25.74,Annotation,,0,0,0,fx,{\pos(300.84271052306,105)\an5\k0\k0}いてんのかい:「
