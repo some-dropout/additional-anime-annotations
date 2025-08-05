@@ -23,6 +23,7 @@ Comment: 0,0:00:21.83,0:00:24.19,Annotation,,0,0,0,karaoke,親|<おや{\k0}: 父
 Comment: 0,0:00:24.47,0:00:25.74,Annotation,,0,0,0,karaoke,聞|<き{\k0}いてんのかい:「{\k0}聞|<き{\k0}いてる？」を乱暴にした言い方。
 Comment: 0,0:00:26.02,0:00:27.00,Annotation,,0,0,0,karaoke,いいから、{\k0}通|<とお{\k0}せ: 其の儘の意味。
 Comment: 0,0:00:27.65,0:00:30.43,Annotation,,0,0,0,karaoke,院|<いん{\k0}: {\k0}孤|<こ{\k0}児|<じ{\k0}院|<いん{\k0}の事。せにゃ:「しなきゃ」の訛り／方言。
+Comment: 0,0:00:32.11,0:00:33.83,Annotation,,0,0,0,karaoke,謝|<あやま{\k0}る: 悪かったと思って許しを願う。
 Comment: 0,0:00:34.48,0:00:36.57,Annotation,,0,0,0,karaoke,奢|<おご{\k0}って{\k0}遣|<や{\k0}んよ:「{\k0}奢|<おご{\k0}って{\k0}遣|<や{\k0}るよ」の訛り／方言。
 Comment: 0,0:00:57.96,0:00:59.92,Annotation,,0,0,0,karaoke,リンネ: {\k0}キャラクター|<character{\k0}名。
 Comment: 0,0:01:01.34,0:01:02.81,Annotation,,0,0,0,karaoke,フーちゃん: フーカの事、{\k0}キャラクター|<character{\k0}名。
@@ -91,6 +92,10 @@ Dialogue: 0,0:00:27.65,0:00:30.43,Annotation-furigana,,0,0,0,fx,{\pos(76.5129219
 Dialogue: 0,0:00:27.65,0:00:30.43,Annotation-furigana,,0,0,0,fx,{\pos(160.50945962656,35)\an5\k0\k0}こ
 Dialogue: 0,0:00:27.65,0:00:30.43,Annotation-furigana,,0,0,0,fx,{\pos(213.53530357364,35)\an5\k0\k0}じ
 Dialogue: 0,0:00:27.65,0:00:30.43,Annotation-furigana,,0,0,0,fx,{\pos(267.19832445914,35)\an5\k0\k0}いん
+Dialogue: 0,0:00:32.11,0:00:33.83,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
+Dialogue: 0,0:00:32.11,0:00:33.83,Annotation,,0,0,0,fx,{\pos(76.512921973538,105)\an5\k0\k0}謝
+Dialogue: 0,0:00:32.11,0:00:33.83,Annotation,,0,0,0,fx,{\pos(523.25089650056,105)\an5\k0\k0}る: 悪かったと思って許しを願う。
+Dialogue: 0,0:00:32.11,0:00:33.83,Annotation-furigana,,0,0,0,fx,{\pos(76.512921973538,35)\an5\k0\k0}あやま
 Dialogue: 0,0:00:34.48,0:00:36.57,Annotation,,0,0,0,fx,{\pos(50,105)\an5\k0\k0}
 Dialogue: 0,0:00:34.48,0:00:36.57,Annotation,,0,0,0,fx,{\pos(76.512921973538,105)\an5\k0\k0}奢
 Dialogue: 0,0:00:34.48,0:00:36.57,Annotation,,0,0,0,fx,{\pos(157.3327562755,105)\an5\k0\k0}って
